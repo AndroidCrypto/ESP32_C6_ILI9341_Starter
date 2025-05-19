@@ -1,7 +1,7 @@
 # ESP32-C6 Supermini with ILI9341 TFT display Starter
 Getting started with an **ESP32-C6 Supermini** device and a TFT display with driver chip **ILI9341**.
 
-This is the accompanying repository for my article "**Getting Started with an ESP32-C6 Supermini device connected to an ILI9341 TFT display**": .
+This is the accompanying repository for my article "**Getting Started with an ESP32-C6 Supermini device connected to an ILI9341 TFT display**": https://medium.com/@androidcrypto/getting-started-with-an-esp32-c6-supermini-device-connected-to-an-ili9341-tft-display-cebece909c03.
 
 My display is a 2.8 inch large TFT display with 240 x 320 pixels.
 
